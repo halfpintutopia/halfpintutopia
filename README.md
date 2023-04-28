@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
 
 # Siri aka Ana
 
@@ -7,7 +7,7 @@
 ## A little about me
 
 - 🌱 I am currently working on ...
-- I am currently learning ...
+- 💡 I am currently learning ...
 - 👫🏾 I am looking to collaborate on ...
 - 🤔 I am looking for help with ...
 - 💬 Ask me about ...
@@ -15,13 +15,11 @@
 - 👩🏾‍🦳 Pronouns: She / Her
 - 🦥 Fun fact: ...
 
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halfpintutopia&show_icons=true&theme=synthwave)
 
 </div>
-
----
 
 ## ⚙️ Languages | Frameworks | Technical Skills
 
@@ -43,8 +41,6 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
----
-
 ## 📜 Study
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
@@ -53,8 +49,6 @@
 ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
-
----
 
 ## ✍🏾 Projects
 
@@ -70,9 +64,6 @@ _[Deployed on Heroku](https://halfpintutopia.github.io/whack-a-marmot/)_
 
 _[Deployed on Heroku](https://sudoku-creator-solver.herokuapp.com/)_
 
-
----
-
 ## 🔧 Preferred Setup & Tools
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -85,16 +76,12 @@ _[Deployed on Heroku](https://sudoku-creator-solver.herokuapp.com/)_
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
----
-
 ## 🫱🏿‍🫲🏼 Active on
 
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-
-----
 
 ## Blog
 
