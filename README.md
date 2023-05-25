@@ -1,6 +1,6 @@
 <div align="center" style="text-align: center;">
 
-# Hi! Known to many as Siri and known by some as Ana
+# Hi! Known to many as Siri but some call me Ana
 
 I am eager and enjoy developing applications for the web, always looking to build and enhance my skillset. I am ready to
 work with new technologies and architectures with like-minded, forward-thinking peers. I am a curious and enthusiastic
