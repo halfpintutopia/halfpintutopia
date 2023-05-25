@@ -1,6 +1,6 @@
 <div align="center" style="text-align: center;">
 
-# Siri aka Ana
+# Hi! Known to many as Siri and known by some as Ana
 
 I am eager and enjoy developing applications for the web, always looking to build and enhance my skillset. I am ready to
 work with new technologies and architectures with like-minded, forward-thinking peers. I am a curious and enthusiastic
@@ -10,11 +10,11 @@ developer. I am motivated to provide high-quality, scalable and testable code.
 
 ## A little about me
 
-🌱 I am currently working on ... 
+🌱 I am currently working my fourth porfolio project
 
-💡 I am currently learning ... 
+💡 I am currently learning as much as I can digest per day and forming informed opinions about being a better developer
 
-👫🏾 I am looking to collaborate on ...
+👫🏾 I am looking to collaborate on anything
 
 🤔 I am looking for help with ...
 
@@ -48,10 +48,7 @@ developer. I am motivated to provide high-quality, scalable and testable code.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 📜 Study
 
