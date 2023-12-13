@@ -8,6 +8,12 @@ developer. I am motivated to provide high-quality, scalable and testable code.
 
 </div>
 
+
+https://github.com/halfpintutopia/halfpintutopia/assets/30613818/fa1d53a8-0d75-4224-8567-cf1899c26444
+
+
+Video provided by [GitHubUnwrapped](https://githubunwrapped.com)
+
 ## A little about me
 
 🌱 I am currently working my fourth porfolio project
