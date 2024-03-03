@@ -65,17 +65,7 @@ Video provided by [GitHubUnwrapped](https://githubunwrapped.com)
 
 ## ✍🏾 Projects
 
-### 🌲 [Magic Forest Trail](https://github.com/halfpintutopia/magic-forest-trail) - HTML5 | CSS3 Project
-
-_[Deployed on GitHub Pages](https://halfpintutopia.github.io/magic-forest-trail/)_
-
-### 🦦 [Whack-A-Marmot](https://github.com/halfpintutopia/whack-a-marmot) - HTML5 | CSS3 | JavaScript Project
-
-_[Deployed on Heroku](https://halfpintutopia.github.io/whack-a-marmot/)_
-
-### 🔢 [Sudoku Game and Solver](https://github.com/halfpintutopia/sudoku) - Python Project
-
-_[Deployed on Heroku](https://sudoku-creator-solver.herokuapp.com/)_
+Portfolio page, I am working on it.
 
 ## 🔧 Preferred Setup & Tools
 
