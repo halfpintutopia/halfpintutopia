@@ -14,26 +14,18 @@ Video provided by [GitHubUnwrapped](https://githubunwrapped.com)
 
 ## A little about me
 
-🌱 I am currently working my fourth porfolio project
+🌱 I am currently working on getting a job
 
 💡 I am currently learning as much as I can digest per day and forming informed opinions about being a better developer
 
 👫🏾 I am looking to collaborate on anything
 
-🤔 I am looking for help with ...
-
-💬 Ask me about ...
-
-🤳🏾 How to reach me ...
-
 👩🏾‍🦳 Pronouns: She / Her
-
-🦥 Fun fact: ...
 
 
 <div align="center" style="text-align: center;">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halfpintutopia&show_icons=true&theme=synthwave)
+[![GitHub Streak](https://streak-stats.demolab.com?user=halfpintutopia&theme=synthwave&border_radius=2&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -65,7 +57,7 @@ Video provided by [GitHubUnwrapped](https://githubunwrapped.com)
 
 ## ✍🏾 Projects
 
-Portfolio page, I am working on it.
+I am working on the portfolio page.
 
 ## 🔧 Preferred Setup & Tools
 
