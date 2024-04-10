@@ -6,8 +6,6 @@ I am eager and enjoy developing applications for the web, always looking to buil
 work with new technologies and architectures with like-minded, forward-thinking peers. I am a curious and enthusiastic
 developer. I am motivated to provide high-quality, scalable and testable code.
 
-https://github.com/halfpintutopia/halfpintutopia/assets/30613818/fa1d53a8-0d75-4224-8567-cf1899c26444
-
 </div>
 
 ## A little about me
