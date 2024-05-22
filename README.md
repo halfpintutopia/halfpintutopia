@@ -18,13 +18,6 @@ developer. I am motivated to provide high-quality, scalable and testable code.
 
 👩🏾‍🦳 Pronouns: She / Her
 
-
-<div align="center" style="text-align: center;">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=halfpintutopia&theme=synthwave&border_radius=2&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
 ## ⚙️ Languages | Frameworks | Technical Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
